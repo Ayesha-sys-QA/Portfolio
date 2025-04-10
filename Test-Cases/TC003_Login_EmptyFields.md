@@ -22,7 +22,7 @@ OR
 User stays on the login page.
 
 ## ✅ Actual Result:
-[Leave blank for now or write result after execution]
+
 
 ## 🛠️ Status:
-[Pass / Fail]
+Fail
