@@ -5,7 +5,7 @@
 **Priority:** High  
 **Environment:** Chrome browser, Windows 10  
 **Reported By:** Ayesha  
-**Date:** [Insert today’s date]
+**Date:** 04/10/2025
 
 ## 🔍 Description
 When clicking the login button with valid credentials, the page does not redirect or provide feedback. The user remains on the login page.
@@ -22,7 +22,7 @@ The user should be redirected to the dashboard after successful login.
 The login button clicks but does nothing. No error message or page redirect.
 
 ## 📎 Attachments
-(Screenshots or screen recording link if you have any)
+
 
 ## 🔁 Status
 Open
