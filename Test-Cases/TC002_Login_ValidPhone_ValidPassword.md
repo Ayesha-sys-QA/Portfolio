@@ -17,7 +17,7 @@
 User is successfully redirected to the Facebook homepage/dashboard.
 
 ## ❌ Actual Result:
-[Leave blank for now or write result after execution]
+
 
 ## 🛠️ Status:
 [Pass / Fail]
