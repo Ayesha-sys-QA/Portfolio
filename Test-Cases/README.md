@@ -71,4 +71,6 @@ Simulated user load testing on web apps.
 
 ---
 
-💡 Feel free to explore my repositories (https://www.notion.so/Hey-I-m-a-QA-Engineer-specializing-in-Software-Testing-Automation-1b1a7a8d2ad1803ba641ddc697595a12) and reach out if you'd like to collaborate!
+💡 Feel free to explore my repositories if you'd like to collaborate!
+📌 **Portfolio**  
+🔗 [My QA Portfolio on Notion](https://www.notion.so/Hey-I-m-a-QA-Engineer-specializing-in-Software-Testing-Automation-1b1a7a8d2ad1803ba641ddc697595a12)
