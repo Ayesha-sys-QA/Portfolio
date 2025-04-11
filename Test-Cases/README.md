@@ -21,7 +21,7 @@
 📁 My Projects
 
 📌 Test Cases  
-🔗 [TC001 – Login with Valid Email](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC001_LoginFunctionality_ValidCredentials.md)  
+🔗 [TC001 – Login with Valid Email](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC001_LoginFunctionality_ValidCredentials))  
 🔗 [TC002 – Login with Valid Phone](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC002_Login_ValidPhone_ValidPassword.md)  
 🔗 [TC003 – Login with Empty Fields](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC003_Login_EmptyFields.md)
 
