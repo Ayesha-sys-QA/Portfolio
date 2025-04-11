@@ -18,23 +18,23 @@
 
 ---
 
-### 📌 Featured Projects
-Here are some of my key projects:
+### 📌 Featured Projects  
+Here are some of the QA-focused projects I'm working on or planning to complete soon:
 
-1. **[E-Commerce Testing Framework](https://github.com/Ayesha-sys-QA/ecommerce-testing-framework)**  
-   A Selenium-based framework for automating end-to-end testing of e-commerce websites.  
-   - Technologies: Selenium, Java, TestNG
-   - Key Features: Cross-browser testing, detailed reporting.
+🛒 1. **[E-Commerce Testing Framework](https://github.com/Ayesha-sys-QA/ecommerce-testing-framework)** (Coming Soon)*  
+A Selenium-based framework for automating end-to-end testing of e-commerce websites.  
+**Technologies:** Selenium, Java, TestNG  
+**Key Features:** Cross-browser testing, reusable test components, detailed HTML reports.
 
-2. **[API Testing Suite](https://github.com/Ayesha-sys-QA/api-testing-suite)**  
-   A collection of automated API test cases using Postman and Newman.  
-   - Technologies: Postman, Newman, JavaScript
-   - Key Features: Automated API validation and performance benchmarking.
+🌐 2. **[API Testing Suite](https://github.com/Ayesha-sys-QA/api-testing-suite)**(Coming Soon)*  
+A collection of automated API test cases using Postman and Newman.  
+**Technologies:** Postman, Newman, JavaScript  
+**Key Features:** Automated validation, environment-based testing, performance benchmarks.
 
-3. **[Performance Testing with JMeter](https://github.com/Ayesha-sys-QA/jmeter-performance-tests)**  
-   Scripts and configurations for performance testing web applications.  
-   - Technologies: JMeter
-   - Key Features: Load testing, response time monitoring.
+⚡ 3. **[Performance Testing with JMeter](https://github.com/Ayesha-sys-QA/jmeter-performance-tests)** *(Coming Soon)*  
+Scripts and configurations for simulating real-world traffic and testing web application stability.  
+**Technologies:** Apache JMeter  
+**Key Features:** Load testing, response time monitoring, resource usage tracking.
 
 ---
 
