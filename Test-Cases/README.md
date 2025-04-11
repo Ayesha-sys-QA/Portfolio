@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Ayesha!
 
 ### 🌟 About Me
-💻 I'm a **Quality Assurance (QA) Engineer** passionate about delivering flawless software through thorough testing and automation.  
+💻 I'm a **Quality Assurance (QA) Engineer** passionate about delivering flawless software thorough testing and automation.  
 🔍 I specialize in **test automation**, **manual testing**, and ensuring great user experiences.  
 🎯 I believe in continuous learning and contributing to the tech community.
 
