@@ -18,23 +18,37 @@
 
 ---
 
-### 📌 Featured Projects  
-Here are some of the QA-focused projects I'm working on or planning to complete soon:
+📁 My Projects
 
-🛒 1. **[E-Commerce Testing Framework](https://github.com/Ayesha-sys-QA/ecommerce-testing-framework)** (Coming Soon)*  
+📌 Test Cases  
+🔗 [TC001 – Login with Valid Email](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC001_LoginFunctionality_ValidCredentials.md)  
+🔗 [TC002 – Login with Valid Phone](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC002_Login_ValidPhone_ValidPassword.md)  
+🔗 [TC003 – Login with Empty Fields](https://github.com/Ayesha-sys-QA/Portfolio/blob/main/Test-Cases/TC003_Login_EmptyFields.md)
+
+📌 Bug Reports  
+🚧 Coming soon...
+
+📌 Automation Scripts  
+🚧 Coming soon...
+
+📌 Featured Projects  
+Here are some of the QA-focused projects I'm working on or planning to complete:
+
+🛒 E-Commerce Testing Framework *(Coming Soon)*  
 A Selenium-based framework for automating end-to-end testing of e-commerce websites.  
 **Technologies:** Selenium, Java, TestNG  
-**Key Features:** Cross-browser testing, reusable test components, detailed HTML reports.
+**Key Features:** Cross-browser testing, reusable components, HTML reports
 
-🌐 2. **[API Testing Suite](https://github.com/Ayesha-sys-QA/api-testing-suite)**(Coming Soon)*  
-A collection of automated API test cases using Postman and Newman.  
-**Technologies:** Postman, Newman, JavaScript  
-**Key Features:** Automated validation, environment-based testing, performance benchmarks.
+🌐 API Testing Suite *(Coming Soon)*  
+Automated API test cases using Postman and Newman.  
+**Technologies:** Postman, Newman  
+**Key Features:** Collection runner, automated validations, CLI integration
 
-⚡ 3. **[Performance Testing with JMeter](https://github.com/Ayesha-sys-QA/jmeter-performance-tests)** *(Coming Soon)*  
-Scripts and configurations for simulating real-world traffic and testing web application stability.  
-**Technologies:** Apache JMeter  
-**Key Features:** Load testing, response time monitoring, resource usage tracking.
+⚡ Performance Testing with JMeter *(Coming Soon)*  
+Simulated user load testing on web apps.  
+**Technologies:** JMeter  
+**Key Features:** Response time tracking, spike & stress testing
+
 
 ---
 
