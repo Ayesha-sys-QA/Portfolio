@@ -1,23 +1,43 @@
-# Test Case ID: TC002_Login_ValidPhone_ValidPassword
+# ✅ Test Case: TC002_Login_ValidPhone_ValidPassword
 
-**Title:** Verify login with valid Phone Number and valid Password  
-**Priority:** High  
-**Precondition:** User is on the Facebook login page  
-**Test Data:**  
-- Phone: +1234567890  
-- Password: CorrectPassword123  
+**Title**: Verify user can log in using a valid phone number and password  
+**Module**: User Authentication  
+**Author**: Aicha Moustatia  
+**Date Executed**: 2025-06-10  
+**Priority**: High  
+**Status**: ✅ Passed
 
-## 🔎 Steps to Execute:
-1. Navigate to https://www.facebook.com  
-2. Enter a valid phone number in the "Email or phone" field  
-3. Enter a valid password in the "Password" field  
-4. Click the “Log In” button
+---
 
-## ✅ Expected Result:
-User is successfully redirected to the Facebook homepage/dashboard.
+## 🔍 Test Scenario
+Verify that login is successful when a user enters a valid phone number and matching password.
 
-## ❌ Actual Result:
+---
 
+## 📌 Preconditions
+- User is on the login page  
+- User has:
+  - Valid phone number: `+41791234567`  
+  - Valid password: `Test@1234`
 
-## 🛠️ Status:
-[Pass / Fail]
+---
+
+## 🧪 Test Steps & Results
+
+| Step | Action                         | Expected Result                        | Actual Result                     | Status |
+|------|--------------------------------|-----------------------------------------|------------------------------------|--------|
+| 1    | Navigate to login page         | Login page loads correctly              | Login page loaded                  | ✅     |
+| 2    | Enter valid phone number       | Phone number accepted                   | Input accepted                     | ✅     |
+| 3    | Enter valid password           | Password accepted                       | Input accepted                     | ✅     |
+| 4    | Click on "Login" button        | Redirect to dashboard/home              | User redirected successfully       | ✅     |
+
+---
+
+## ✅ Final Result
+**Passed** — login via phone number and password is working as expected.
+
+## 🧾 Notes
+- Browser: Firefox v118  
+- OS: Windows 10  
+- Test performed on test environment: `qa.testplatform.com`  
+
