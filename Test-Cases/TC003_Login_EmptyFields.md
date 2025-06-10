@@ -1,28 +1,40 @@
-# Test Case ID: TC003_Login_EmptyFields
+# ❌ Test Case: TC003_Login_EmptyFields
 
-**Title:** Verify login behavior when both Email/Phone and Password fields are left empty  
-**Priority:** High  
-**Precondition:** User is on the Facebook login page  
-**Test Data:**  
-- Email/Phone: [Leave blank]  
-- Password: [Leave blank]
+**Title**: Verify that login fails when both username and password fields are empty  
+**Module**: User Authentication  
+**Author**: Aicha Moustatia  
+**Date Executed**: 2025-06-10  
+**Priority**: Medium  
+**Status**: ✅ Passed (Negative Test Case)
 
-## 🔎 Steps to Execute:
-1. Navigate to https://www.facebook.com  
-2. Leave the "Email or phone" field empty  
-3. Leave the "Password" field empty  
-4. Click the “Log In” button
+---
 
-## ❌ Expected Result:
-An error message is displayed:  
-> "The email or mobile number you entered isn’t connected to an account."  
-OR  
-> "Please enter your email or mobile number."
+## 🔍 Test Scenario
+Ensure that an error message is displayed when trying to log in without entering any credentials.
 
-User stays on the login page.
+---
 
-## ✅ Actual Result:
+## 📌 Preconditions
+- User is on the login page  
+- Username and password fields are empty  
 
+---
 
-## 🛠️ Status:
-Fail
+## 🧪 Test Steps & Results
+
+| Step | Action                       | Expected Result                          | Actual Result                        | Status |
+|------|------------------------------|-------------------------------------------|---------------------------------------|--------|
+| 1    | Navigate to login page       | Login page loads correctly                | Login page loaded                     | ✅     |
+| 2    | Leave both fields empty      | No data entered                           | Fields remain empty                   | ✅     |
+| 3    | Click "Login" button         | Error message: "Username and password required" | Error message displayed         | ✅     |
+
+---
+
+## ❌ Final Result
+**Passed** — login blocked and appropriate error shown for empty fields.
+
+## 🧾 Notes
+- Browser: Edge v114  
+- OS: Windows 10  
+- Test performed on: `staging.testsite.com`  
+- Error message displayed as expected below the form
