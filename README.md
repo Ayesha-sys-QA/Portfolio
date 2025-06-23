@@ -1,5 +1,8 @@
 # 🧪 QA Portfolio – Aicha Moustatia
 
+Hello! I’m Aicha, a passionate QA Engineer with hands-on experience in manual, API, and automation testing.  
+I’m continuously learning and growing my skills to excel in remote QA roles and deliver quality software solutions.
+
 This repository showcases my QA testing skills across **manual testing**, **API testing**, and **automation scripting**.  
 Each section includes examples of **test cases**, **bug reports**, and **frameworks** developed during my training and personal projects.
 
