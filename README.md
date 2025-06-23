@@ -1,7 +1,7 @@
 # 🧪 QA Portfolio – Aicha Moustatia
 
-Hello! I’m Aicha, a passionate QA Engineer with hands-on experience in manual, API, and automation testing.  
-I’m continuously learning and growing my skills to excel in remote QA roles and deliver quality software solutions.
+Hello! I’m Aicha, a passionate QA Engineer with hands-on experience in manual, API, and automation testing using tools like **Java, Selenium, Postman, and Playwright**.  
+Driven by quality and precision, I strive to deliver seamless software experiences through rigorous testing and automation.
 
 This repository showcases my QA testing skills across **manual testing**, **API testing**, and **automation scripting**.  
 Each section includes examples of **test cases**, **bug reports**, and **frameworks** developed during my training and personal projects.
@@ -34,8 +34,10 @@ Each section includes examples of **test cases**, **bug reports**, and **framewo
 ## 🎯 Goals
 - Demonstrate end-to-end QA workflow from planning to reporting
 - Build a solid foundation for **remote QA roles**
-- Continue growing this repo with new tests and tools (e.g., Postman, Playwright)
+- Continue growing this repo with new tests and tools
+  
+Feel free to explore my projects and reach out for collaboration or opportunities!
 
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aicha-moustatia-qa)  
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aicha-moustatia-qa) 
 
 
